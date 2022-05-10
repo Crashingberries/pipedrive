@@ -1,5 +1,5 @@
 {
-    "name": "pipedrive/pipedrive",
+    "name": "crashingberries/pipedrive",
     "type": "library",
     "description": "Pipedrive REST client for PHP",
     "keywords": [
@@ -12,7 +12,7 @@
         "pipeline",
         "sales pipeline"
     ],
-    "homepage": "https://github.com/pipedrive/client-php",
+    "homepage": "https://github.com/Crashingberries/pipedrive",
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
